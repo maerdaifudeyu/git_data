@@ -1,1 +1,1 @@
-docker pull nginx:1.20.1
+FROM registry.k8s.io/coredns/coredns:v1.11.3
